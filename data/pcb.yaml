@@ -1,0 +1,10 @@
+
+train: G:\YOLO-AFK_response\datasets\pcbimage\images/train # train images (relative to 'path') 128 images
+val: G:\YOLO-AFK_response\datasets\pcbimage\images/val # val images (relative to 'path') 128 images
+test: G:\YOLO-AFK_response\datasets\pcbimage\images/test # test images (optional)
+
+nc: 12
+
+# Classes
+names: ['S', 'B', 'Slou', 'Blou', 'Sshao', 'Bshao', 'LIAN', 'LONG', 'BIG','SPING', 'WY' ,'BPING']
+

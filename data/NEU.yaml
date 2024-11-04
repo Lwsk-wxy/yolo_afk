@@ -1,0 +1,10 @@
+
+train: G:\YOLO-AFK_response\datasets\NEU-DET\images/train # train images (relative to 'path') 128 images
+val: G:\YOLO-AFK_response\datasets\NEU-DET\images/val # val images (relative to 'path') 128 images
+test: G:\YOLO-AFK_response\datasets\NEU-DET\images/test # test images (optional)
+
+nc: 6
+
+# Classes
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
+
